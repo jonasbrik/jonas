@@ -3,4 +3,10 @@ body {
     color:white;
     
 }
-
+.cabecalho-imagem{
+width: 20%;
+    background-color: #383D58;
+    color: white;
+    display:flex;
+    justify-content: space-around;
+}
